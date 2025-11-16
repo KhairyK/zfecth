@@ -1,0 +1,17 @@
+{
+  "name": "zfecth",
+  "version": "1.0.0",
+  "description": "Powerful HTTP Request",
+  "author": "Sholehuddin Khairy",
+  "license": "MIT",
+  "homepage": "https://zfecth.kyrt.my.id/",
+  "npm": "https://www.npmjs.com/packages/zfecth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhairyK/zfecth.git"
+  },
+  "includeFile": [
+  	"dist/zfecth.js", 
+  	"dist/zfecth.min.js"
+  ]
+}
